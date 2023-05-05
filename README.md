@@ -134,7 +134,7 @@ Run the app checker script.
 ./app_checker.py
 ```
 
-### Step 5: 
+### Step 6: 
 
 Package the source tree for upload to IP Explorer:
 
